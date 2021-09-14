@@ -1,5 +1,6 @@
 
 # ```Hola!, Soy Ulises Pignatelli.```
+<h3 align="left">Soy un estudiante de ingenieria en sistemas informaticos y desarrollador autodidacta enfocado en el stack MERN. Aprendiendo cada dia sobre ciberseguridad y hacking etico💻</h3>
 
 * :godmode: Me interesa la **Programacion** y la **Seguridad informatica**
 * :suspect: Actualmente estoy aprendiendo desarrrollo web, frameworks, seguridad informatica y muchos mas
@@ -12,6 +13,25 @@
   <a href="https://github.com/UlisesPignatelliDev"><img width="800" src="https://github-profile-trophy.vercel.app/?username=UlisesPignatelliDev&row=1&column=5&theme=gruvbox">
 </p>
     
+   ----
+    
+    * Algunas de las tecnologías que conozco y uso
+    
+ <p>
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-0D1117?logo=html5&logoColor=E34F26&style=plastic"/>
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS3-0D1117?logo=css3&logoColor=0769AD&style=plastic"/>
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-0D1117?logo=javascript&logoColor=F7DF1E&style=plastic"/>
+  <img alt="jQuery" src="https://img.shields.io/badge/-JQuery-0D1117?logo=jquery&logoColor=0769AD&style=plastic"/>
+  <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-0D1117?logo=react&logoColor=61DAFB&style=plastic"/>
+  <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-0D1117?logo=Node.js&logoColor=339933&style=plastic"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0D1117?logo=MySQL&logoColor=blue&style=plastic"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDb-0D1117?logo=MongoDB&logoColor=47A248&style=plastic"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-0D1117?logo=github&logoColor=white&style=plastic"/>
+  <img alt="VSCode" src="https://img.shields.io/badge/-VScode-0D1117?logo=visual-studio-code&logoColor=23A7F2&style=plastic"/>
+  <img alt="VMware" src="https://img.shields.io/badge/-VMware-0D1117?logo=VMware&logoColor=ffffff&style=plastic"/>
+</p>
+    
+   ----
 ## My repos
     
 <p align="left">
