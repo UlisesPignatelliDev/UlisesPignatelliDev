@@ -28,7 +28,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDb-0D1117?logo=MongoDB&logoColor=47A248&style=plastic"/>
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-0D1117?logo=github&logoColor=white&style=plastic"/>
   <img alt="VSCode" src="https://img.shields.io/badge/-VScode-0D1117?logo=visual-studio-code&logoColor=23A7F2&style=plastic"/>
-  <img alt="VMware" src="https://img.shields.io/badge/-VMware-0D1117?logo=VMware&logoColor=ffffff&style=plastic"/>
 </p>
     
    ----
