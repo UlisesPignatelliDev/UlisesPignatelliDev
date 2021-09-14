@@ -2,9 +2,9 @@
 # ```Hola!, Soy Ulises Pignatelli.```
 <h3 align="left">Soy un estudiante de ingenieria en sistemas informaticos y desarrollador autodidacta enfocado en el stack MERN. Aprendiendo cada dia sobre ciberseguridad y hacking etico💻</h3>
 
-* :godmode: Me interesa la **Programacion** y la **Seguridad informatica**
-* :suspect: Actualmente estoy aprendiendo desarrrollo web, frameworks, seguridad informatica y muchos mas
-* :feelsgood: ¿Cómo contactarme? Si te gustan mis repos, puedes contactarme por _**[e-mail](mailto:pignatelli.ulises15@gmail.com)**_ or _**[linkedin](https://www.linkedin.com/in/ulises-pignatelli/)**_
+*  Me interesa la **Programacion** y la **Seguridad informatica**
+*  Actualmente estoy aprendiendo desarrrollo web, frameworks, seguridad informatica y muchos mas
+*  ¿Cómo contactarme? Si te gustan mis repos, puedes contactarme por _**[e-mail](mailto:pignatelli.ulises15@gmail.com)**_ or _**[linkedin](https://www.linkedin.com/in/ulises-pignatelli/)**_
 
   
 <p align="left">
