@@ -1,6 +1,6 @@
 
 # ```Hola!, Soy Ulises Pignatelli.```
-<h3 align="left">Soy un estudiante de ingenieria en sistemas informaticos y desarrollador autodidacta enfocado en el stack MERN. Aprendiendo cada dia sobre ciberseguridad y hacking etico💻</h3>
+<h3 align="left">Soy estudiante de ingenieria en sistemas informaticos y desarrollador autodidacta enfocado en el stack MERN. Aprendiendo cada dia sobre ciberseguridad y hacking etico💻</h3>
 
 *  Me interesa la **Programacion** y la **Seguridad informatica**
 *  Actualmente estoy aprendiendo desarrrollo web, frameworks, seguridad informatica y muchos mas
