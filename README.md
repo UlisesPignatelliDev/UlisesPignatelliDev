@@ -19,7 +19,7 @@
     
    ----
     
-    * Algunas de las tecnologías que conozco y uso
+    * Tecnologías que manejo
     
  <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-0D1117?logo=html5&logoColor=E34F26&style=plastic"/>
