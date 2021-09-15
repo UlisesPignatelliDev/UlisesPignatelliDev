@@ -43,6 +43,10 @@
   <a href="https://github.com/UlisesPignatelliDev/TiendaVirtual"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=UlisesPignatelliDev&repo=TiendaVirtual&layout=compact&theme=gruvbox">
   <a href="https://github.com/UlisesPignatelliDev/damas-juego-final-lppa"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=UlisesPignatelliDev&repo=damas-juego-final-lppa&hide=html,scss,css&langs_count=10&layout=compact&theme=gruvbox">
 </p>  
+    <div align="center">
+       <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+    </div>
+   
  <!---   
 https://github.com/UlisesPignatelliDev es un repositorio ✨ especial ✨ porque su `README.md` (este archivo) aparece en su perfil de GitHub.
 Puede hacer clic en el enlace Vista previa para ver los cambios.
