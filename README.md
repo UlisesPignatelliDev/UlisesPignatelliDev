@@ -1,5 +1,9 @@
 
 # ```Hola! Soy Ulises Pignatelli.```
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=UlisePignatelliDev" alt="Lissen01" /> </p>
+
 <h3 align="left">Soy estudiante de ingenieria en sistemas informaticos y desarrollador autodidacta enfocado en el stack MERN. Aprendiendo constantemente sobre ciberseguridad y hacking etico💻</h3>
 
 *  Me interesa la **Programacion** y la **Seguridad informatica**
