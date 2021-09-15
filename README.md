@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UlisePignatelliDev" alt="Lissen01" /> </p>
 
-<h3 align="left">Soy estudiante de ingenieria en sistemas informaticos y desarrollador autodidacta enfocado en el stack MERN. Aprendiendo constantemente sobre ciberseguridad y hacking etico💻</h3>
+<h3 align="left">Soy estudiante de ingeniería en sistemas informáticos y desarrollador autodidacta enfocado en el stack MERN. Aprendiendo constantemente sobre ciberseguridad y hacking ético💻</h3>
 
-*  Me interesa la **Programacion** y la **Seguridad informatica**
-*  Actualmente estoy aprendiendo desarrrollo web, frameworks, seguridad informatica y muchos mas
-*  ¿Cómo contactarme? Si te gustan mis repos, puedes contactarme por _**[e-mail](mailto:pignatelli.ulises15@gmail.com)**_ or _**[linkedin](https://www.linkedin.com/in/ulises-pignatelli/)**_
+*  Me interesa la **Programación** y la **Seguridad informática**
+*  Actualmente estoy aprendiendo desarrrollo web, frameworks, seguridad informática y muchos mas
+*  ¿Cómo contactarme? Si te gustan mis repos, puedes contactarme por _**[e-mail](mailto:pignatelli.ulises15@gmail.com)**_ o _**[linkedin](https://www.linkedin.com/in/ulises-pignatelli/)**_
 
   
 <p align="left">
