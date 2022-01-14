@@ -1,8 +1,9 @@
-
 # ```Hola! Soy Ulises Pignatelli.```
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UlisePignatelliDev" alt="Lissen01" /> </p>
+
+<img align="right" alt="GIF" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" width="350" height="230" />
 
 <h3 align="left">Soy estudiante de ingeniería en sistemas informáticos y desarrollador autodidacta enfocado en el stack MERN. Aprendiendo constantemente sobre ciberseguridad y hacking ético💻</h3>
 
@@ -11,7 +12,7 @@
 *  ¿Cómo contactarme? Si te gustan mis repos, puedes contactarme por _**[e-mail](mailto:pignatelli.ulises15@gmail.com)**_ o _**[linkedin](https://www.linkedin.com/in/ulises-pignatelli/)**_
 
   
-<p align="left">
+<p align="center">
   <a href="https://github.com/UlisesPignatelliDev/Blackjack"><img width="400" src="https://github-readme-stats.vercel.app/api?username=UlisesPignatelliDev&show_icons=true&theme=gruvbox">
   <a href="https://github.com/UlisesPignatelliDev"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlisesPignatelliDev&hide=html,scss,css,shell&langs_count=10&layout=compact&theme=gruvbox">
   <a href="https://github.com/UlisesPignatelliDev"><img width="800" src="https://github-profile-trophy.vercel.app/?username=UlisesPignatelliDev&row=1&column=5&theme=gruvbox">
@@ -37,7 +38,7 @@
    ----
 ## My repos
     
-<p align="left">
+<p align="center">
    <a href="https://github.com/UlisesPignatelliDev/Blackjack"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=UlisesPignatelliDev&card_height=300&&repo=Blackjack&langs_count=5&layout=compact&theme=gruvbox">
   <a href="https://github.com/UlisesPignatelliDev/cards-flexbox"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=UlisesPignatelliDev&card_height=300&&repo=cards-flexbox&langs_count=5&layout=compact&theme=gruvbox">
   <a href="https://github.com/UlisesPignatelliDev/TiendaVirtual"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=UlisesPignatelliDev&repo=TiendaVirtual&layout=compact&theme=gruvbox">
