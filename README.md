@@ -13,7 +13,7 @@
 
   
 <p align="center">
-  <a href="https://github.com/UlisesPignatelliDev/Blackjack">
+  <a href="https://github.com/UlisesPignatelliDev/front-angular">
        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UlisesPignatelliDev&show_icons=true&theme=buefy&count_private=true&hide_border=true"/>
      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UlisesPignatelliDev&layout=compact&langs_count=8&theme=buefy&count_private=true&hide_border=true"/> 
   <!--  <img width="400" src="https://github-readme-stats.vercel.app/api?username=UlisesPignatelliDev&show_icons=true&theme=onedark_repo">
