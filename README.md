@@ -12,17 +12,12 @@
 *  ¿Cómo contactarme? Si te gustan mis repos, puedes contactarme por _**[e-mail](mailto:pignatelli.ulises15@gmail.com)**_ o _**[linkedin](https://www.linkedin.com/in/ulises-pignatelli/)**_
 
   
-<p align="center">
-  <a href="https://github.com/UlisesPignatelliDev/front-angular">
-       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UlisesPignatelliDev&show_icons=true&theme=buefy&count_private=true&hide_border=true"/>
-     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UlisesPignatelliDev&layout=compact&langs_count=8&theme=buefy&count_private=true&hide_border=true"/> 
-  <!--  <img width="400" src="https://github-readme-stats.vercel.app/api?username=UlisesPignatelliDev&show_icons=true&theme=onedark_repo">
-    <a href="https://github.com/UlisesPignatelliDev"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlisesPignatelliDev&hide=html,scss,css,shell&langs_count=10&layout=compact&theme=onedark_repo">-->
-    <p align="center" >
-  <a href="https://github.com/UlisesPignatelliDev" ><img width="850" src="https://github-profile-trophy.vercel.app/?username=UlisesPignatelliDev&row=1&column=5&theme=onedark_repo">
-    </p>
+
+    <p align="center">
+        <a href="https://github.com/UlisesPignatelliDev"><img width="400" src="https://github-readme-stats.vercel.app/api?username=UlisesPignatelliDev&show_icons=true&theme=gruvbox">
+        <a href="https://github.com/UlisesPignatelliDev"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlisesPignatelliDev&hide=html,scss,css,shell&langs_count=10&layout=compact&theme=gruvbox">
+        <a href="https://github.com/UlisesPignatelliDev"><img width="800" src="https://github-profile-trophy.vercel.app/?username=UlisesPignatelliDev&row=1&column=5&theme=gruvbox">
 </p>
-   ----
     
     * Tecnologías que manejo
     
