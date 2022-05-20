@@ -3,23 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UlisePignatelliDev" alt="Lissen01" /> </p>
 
-<img align="right" alt="GIF" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" width="350" height="230" />
+
 
 <h3 align="left">Soy estudiante de ingeniería en sistemas informáticos y desarrollador autodidacta enfocado en el stack MERN. Aprendiendo constantemente sobre ciberseguridad y hacking ético💻</h3>
 
 *  Me interesa la **Programación** y la **Seguridad informática**
 *  Actualmente estoy aprendiendo desarrrollo web, frameworks, seguridad informática y muchos mas
 *  ¿Cómo contactarme? Si te gustan mis repos, puedes contactarme por _**[e-mail](mailto:pignatelli.ulises15@gmail.com)**_ o _**[linkedin](https://www.linkedin.com/in/ulises-pignatelli/)**_
-
-  
-
-    <p align="center">
-        <a href="https://github.com/UlisesPignatelliDev"><img width="400" src="https://github-readme-stats.vercel.app/api?username=UlisesPignatelliDev&show_icons=true&theme=gruvbox">
-        <a href="https://github.com/UlisesPignatelliDev"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlisesPignatelliDev&hide=html,scss,css,shell&langs_count=10&layout=compact&theme=gruvbox">
-        <a href="https://github.com/UlisesPignatelliDev"><img width="800" src="https://github-profile-trophy.vercel.app/?username=UlisesPignatelliDev&row=1&column=5&theme=gruvbox">
-</p>
-    
-    * Tecnologías que manejo
+*  Tecnologías que manejo
     
  <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-0D1117?logo=html5&logoColor=E34F26&style=plastic"/>
@@ -35,6 +26,7 @@
   <img alt="VMware" src="https://img.shields.io/badge/-VMware-0D1117?logo=VMware&logoColor=ffffff&style=plastic"/>
 </p>
      <div align="center">
+  <img align="right" alt="GIF" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" width="500" height="400" />
        <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
     </div>
    
